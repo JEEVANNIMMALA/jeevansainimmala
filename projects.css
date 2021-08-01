@@ -522,6 +522,8 @@
  }
  .si1{
      background-image: url(./face.png);
+    cursor: pointer;
+     
  }
 
  .si2{
