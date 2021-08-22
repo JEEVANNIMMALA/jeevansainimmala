@@ -76,6 +76,60 @@
     align-items: center;
 }
 
+/* <!-- //////////////////////////////////CURRENTLY WORKING ON //////////////////////////////////////////// --> */
+
+
+.status{
+   background-color: rgb(3, 2, 2);
+   width: 80%;
+   margin-top: 30px;
+   height: 300px;
+   border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.head2{
+  margin-left: 20px;
+  margin-top: 30px;
+  /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  color: rgb(46, 250, 6);
+}
+.headin{
+  color:  rgb(46, 250, 6);
+  margin-left: 40px;
+}
+
+.status_but{
+  display: block;
+  border: 1px;
+  font-size: 16px;
+  line-height: 1;
+  padding: 16px 30px;
+  border-radius: 30px;
+  background-color: rgb(16, 187, 10);
+  color: rgb(241, 239, 241);
+  cursor: pointer;
+  width:120px;
+  margin-left: 400px;
+}
+.status_but:hover{
+
+  background-color: rgb(69, 90, 65);
+  transition: .5s;
+}
+.h2{
+  margin-left: 20px;
+  margin-top: 10px;
+  /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  color:  rgb(46, 250, 6);
+}
+.descr{
+  color:  rgb(46, 250, 6);
+  font-size: 14px;
+}
+
+/* <!-- //////////////////////////////////CURRENTLY WORKING ON //////////////////////////////////////////// --> */
 .bantext{
     height: 50%;
     width: 55%;
